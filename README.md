@@ -4,7 +4,7 @@ An interactive web app to classify mushrooms as edible or poisonous using machin
 
 🚀 Demo
 
-🔗 Try it here: [Mushroom Classification App](https://mushroom-datset-hi86ctgjpjpyzljsorged7.streamlit.a)
+🔗 Try it here: [Mushroom Classification App](https://mushroom-datset-hi86ctgjpjpyzljsorged7.streamlit.app/)
 
 
 📊 Project Overview
