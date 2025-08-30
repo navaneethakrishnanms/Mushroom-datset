@@ -87,7 +87,7 @@ Run the app
 streamlit run app.py
 
 📷 Screenshots
-![Alt Text](Screenshot 2025-08-30 142137.png)
+![Alt Text](app.png)
 
 
 	
